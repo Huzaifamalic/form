@@ -1,0 +1,40 @@
+h1,h2,h3,p,a{
+    text-align: center;
+       
+
+}
+
+/* table{
+    border: 1px solid black;
+    
+} */
+.red{
+    background-color: red;
+border: solid black;
+padding: 0%;
+margin: 2%;
+}
+.orang{
+    background-color: orange;
+    border: solid black;
+    padding: % ;
+    text-align: center;
+    margin: 20rem ;
+}
+.green{
+    background-color: green;
+    border: solid black;
+    padding: 0%;
+}
+html{
+text-align: center;
+background-color: #af60286c;
+display: flex
+align-items: center;
+height: 100vh;
+justify-content: center;
+}
+th{
+    text-align: center;
+    margin-right: auto;
+}
